@@ -14,7 +14,7 @@ Author: Elizabeth Yates
 
 **Expected Outcome**: A web page displaying an image relevant to the educational content, with a caption explaining the image.
 
-## Task 2: Include an Instructional Audio Clip 
+### Task 2: Include an Instructional Audio Clip 
 
 - Embed an audio clip that provides a brief explanation or reading of the concept. 
 - Ensure the audio is accessible with playback controls.
@@ -46,9 +46,9 @@ Author: Elizabeth Yates
 
 **Expected Outcome**: A web page with a clear, logical structure, marked up with semantic elements that delineate the header, navigation, main content, and footer.
 
-### Task 2: Organize Content 
+### Task 2: Organize Content Using Articles and Sections 
 
-- Using Articles and Sections Within the `<main>` element, use `<article>` and `<section>` tags to organize the content related to your topic. Use headings (`<h2>` to `<h6>`) to title each section or article appropriately.
+- Within the `<main>` element, use `<article>` and `<section>` tags to organize the content related to your topic. Use headings (`<h2>` to `<h6>`) to title each section or article appropriately.
 
 **Expected Outcome**: A semantically structured main content area, with articles and sections that logically separate different topics or ideas related to the main subject.
 
